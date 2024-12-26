@@ -1,0 +1,80 @@
+body {
+    background-color: #F8F8EC;
+    font-family: "Amatic SC";
+    font-weight: 600;
+    color: #9B5555;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#row1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    height: 15vh;
+    width: auto;
+    margin-top: 2vh;
+    margin-left: 1.5vw;
+}
+
+#nav {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 5.2vh;
+    margin-top: 4.5vh;
+}
+
+#row2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#company-name {
+    font-size: 4vh;
+    margin-top: 0;
+
+}
+
+.call-to {
+    font-family: "Libre Baskerville";
+    font-size: 8vh;
+    font-weight: 300;
+    color: black;
+    margin-left: 10vh;
+}
+
+#call1 {
+    margin-top: 5vh;
+}
+
+#action {
+    font-size: 20vh;
+    margin-left: 12vh;
+}
+
+#photo-ig {
+    height: 65vh;
+    width: auto;
+    border-radius: 30px;
+}
+
+#row3 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ig-navbar {
+    height: 4.5vh;
+    margin-top: 1vh;
+    margin-left: 0.7vw;
+}
+
+#bookmark {
+    margin-left: 16vw;
+}
